@@ -7,6 +7,7 @@ def es_primo(numero):
     return True
 
 n = int(input("Ingrese la cantidad de números primos a mostrar: "))
+
 contador = 0
 numero = 2
 while contador < n:

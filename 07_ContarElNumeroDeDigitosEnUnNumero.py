@@ -1,4 +1,5 @@
 numero = int(input("Ingrese un número entero: "))
+
 contador = 0
 while numero != 0:
     numero //= 10
